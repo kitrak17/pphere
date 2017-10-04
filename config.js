@@ -10,7 +10,7 @@ exports.CENTRAL_SERVER_MODE = true;
 // Note that you need an entry in your hosts file for this
 // and that it must match the returnUrl set on your app in
 // PayPal Access
-exports.MY_HOSTNAME = "http://127.0.0.1";
+exports.MY_HOSTNAME = "https://pphere-kitrak.herokuapp.com";
 exports.MY_PORT = 3000;
 exports.MY_APP_URL = "sdksampleapp://oauth";
 
